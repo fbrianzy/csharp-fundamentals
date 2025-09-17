@@ -28,3 +28,4 @@ Repeat for other examples (`ex02`, next chapters, etc.).
 - [09 File IO Json](https://github.com/fbrianzy/csharp-fundamentals/tree/main/09-file-io-json)
 - [10 Async Await](https://github.com/fbrianzy/csharp-fundamentals/tree/main/10-async-await)
 - [11 Generics Interfaces Inheritance](https://github.com/fbrianzy/csharp-fundamentals/tree/main/11-generics-interfaces-inheritance)
+- [12 Events Delegates](https://github.com/fbrianzy/csharp-fundamentals/tree/main/12-events-delegates)
