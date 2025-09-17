@@ -17,4 +17,4 @@ dotnet run
 Repeat for other examples (`ex02`, next chapters, etc.).
 
 ## Chapters
-- [01 Hello CS](https://github.com/fbrianzy/csharp-fundamentals/edit/main/tree/01-hello-cs)
+- [01 Hello CS](https://github.com/fbrianzy/csharp-fundamentals/edit/main/01-hello-cs)
