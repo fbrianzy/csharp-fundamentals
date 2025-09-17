@@ -26,3 +26,4 @@ Repeat for other examples (`ex02`, next chapters, etc.).
 - [07 Collections Linq](https://github.com/fbrianzy/csharp-fundamentals/tree/main/07-collections-linq)
 - [08 Exceptions](https://github.com/fbrianzy/csharp-fundamentals/tree/main/08-exceptions)
 - [09 File IO Json](https://github.com/fbrianzy/csharp-fundamentals/tree/main/09-file-io-json)
+- [10 Async Await](https://github.com/fbrianzy/csharp-fundamentals/tree/main/10-async-await)
