@@ -22,3 +22,4 @@ Repeat for other examples (`ex02`, next chapters, etc.).
 - [03 Control Flow](https://github.com/fbrianzy/csharp-fundamentals/tree/main/03-control-flow)
 - [04 Methods](https://github.com/fbrianzy/csharp-fundamentals/tree/main/04-methods)
 - [05 Oop Basics](https://github.com/fbrianzy/csharp-fundamentals/tree/main/05-oop-basics)
+- [06 Records Structs Patterns](https://github.com/fbrianzy/csharp-fundamentals/tree/main/06-records-structs-patterns)
