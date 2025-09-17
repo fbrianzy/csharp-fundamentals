@@ -23,3 +23,5 @@ Repeat for other examples (`ex02`, next chapters, etc.).
 - [04 Methods](https://github.com/fbrianzy/csharp-fundamentals/tree/main/04-methods)
 - [05 Oop Basics](https://github.com/fbrianzy/csharp-fundamentals/tree/main/05-oop-basics)
 - [06 Records Structs Patterns](https://github.com/fbrianzy/csharp-fundamentals/tree/main/06-records-structs-patterns)
+- [07 Collections Linq](https://github.com/fbrianzy/csharp-fundamentals/tree/main/07-collections-linq)
+- [08 Exceptions](https://github.com/fbrianzy/csharp-fundamentals/tree/main/08-exceptions)
