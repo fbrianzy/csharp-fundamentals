@@ -17,5 +17,6 @@ dotnet run
 Repeat for other examples (`ex02`, next chapters, etc.).
 
 ## Chapters
-- [01 : Hello CS](https://github.com/fbrianzy/csharp-fundamentals/edit/main/01-hello-cs)
-- [02 : Types and Variables](https://github.com/fbrianzy/csharp-fundamentals/tree/main/02-types-and-variables)
+- [01 Hello CS](https://github.com/fbrianzy/csharp-fundamentals/edit/main/01-hello-cs)
+- [02 Types and Variables](https://github.com/fbrianzy/csharp-fundamentals/tree/main/02-types-and-variables)
+- [03 Control Flow](https://github.com/fbrianzy/csharp-fundamentals/tree/main/03-control-flow)
